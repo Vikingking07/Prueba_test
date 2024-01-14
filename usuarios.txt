@@ -1,0 +1,10 @@
+admin@gmail.com
+pass: moya
+
+Doctor:
+hhazan01@gmail.com
+pass: soporte
+
+Paciente:
+sharon@gmail.com
+pass: 12345
